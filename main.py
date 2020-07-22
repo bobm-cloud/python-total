@@ -1,3 +1,5 @@
 #!/usr/bin/python3
 
-print("Hello World in Universe")
+def main(msg):
+    print(msg)
+main("Hello World of Galaxy")
