@@ -5,4 +5,7 @@ def main(msg):
     print(msg)
 def secondary():
     print("new function")
+    //adding comments to secondary function
+def primary():
+    print("Third finction")
 main("Hello World of Galaxy")
