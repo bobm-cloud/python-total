@@ -2,5 +2,6 @@
 
 def main(msg):
     // Adding different comment
+    //print a message
     print(msg)
 main("Hello World of Galaxy")
